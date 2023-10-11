@@ -1,4 +1,4 @@
-___Labwork2___
+Statcyshyna Iryna 555im __Labwork2__
 
 _Create a Windows Serve virtual machine_
 ![windows “instances”1](https://github.com/Statcyshyna555im/Lab2/assets/145069084/ef0989b5-57d7-492c-a095-a8bf2abb0f12)
